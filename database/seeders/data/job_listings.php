@@ -13,13 +13,13 @@ return [
     "address" => "123 Main St",
     "city" => "Albany",
     "state" => "NY",
-    "zip-code" => "12201",
-    "contact-email" => "info@algorix.com",
-    "contact-phone" => "348-334-3949",
-    "company-name" => "Algorix",
-    "company-description" => "Algorix is a leading tech firm specializing in innovative software solutions and cutting-edge technology.",
-    "company-logo" => "logos/logo-algorix.png",
-    "company-website" => "https://algorix.com"
+    "zip_code" => "12201",
+    "contact_email" => "info@algorix.com",
+    "contact_phone" => "348-334-3949",
+    "company_name" => "Algorix",
+    "company_description" => "Algorix is a leading tech firm specializing in innovative software solutions and cutting-edge technology.",
+    "company_logo" => "logo/logo-algorix.png",
+    "company_website" => "https://algorix.com"
   ],
   [
     "title" => "Marketing Specialist",
@@ -33,13 +33,13 @@ return [
     "address" => "456 Market St",
     "city" => "San Francisco",
     "state" => "CA",
-    "zip-code" => "94105",
-    "contact-email" => "info@bitwave.com",
-    "contact-phone" => "454-344-3344",
-    "company-name" => "Bitwave",
-    "company-description" => "Bitwave is a dynamic marketing agency focused on delivering innovative marketing strategies and results-driven solutions.",
-    "company-logo" => "logos/logo-bitwave.png",
-    "company-website" => "https://bitwave.com"
+    "zip_code" => "94105",
+    "contact_email" => "info@bitwave.com",
+    "contact_phone" => "454-344-3344",
+    "company_name" => "Bitwave",
+    "company_description" => "Bitwave is a dynamic marketing agency focused on delivering innovative marketing strategies and results-driven solutions.",
+    "company_logo" => "logo/logo-bitwave.png",
+    "company_website" => "https://bitwave.com"
   ],
   [
     "title" => "Web Developer",
@@ -53,13 +53,13 @@ return [
     "address" => "789 Web Ave",
     "city" => "Chicago",
     "state" => "IL",
-    "zip-code" => "60607",
-    "contact-email" => "info@nextgensolutions.com",
-    "contact-phone" => "456-876-5432",
-    "company-nam-e" => "NextGen Solutions",
-    "company-description" => "NextGen Solutions is a forward-thinking technology company dedicated to crafting exceptional web applications and solutions.",
-    "company-logo" => "logos/logo-nextgen.png",
-    "company-website" => "https://nextgensolutions.com"
+    "zip_code" => "60607",
+    "contact_email" => "info@nextgensolutions.com",
+    "contact_phone" => "456-876-5432",
+    "company_nam-e" => "NextGen Solutions",
+    "company_description" => "NextGen Solutions is a forward-thinking technology company dedicated to crafting exceptional web applications and solutions.",
+    "company_logo" => "logo/logo-nextgen.png",
+    "company_website" => "https://nextgensolutions.com"
   ],
   [
     "title" => "Data Analyst",
@@ -73,13 +73,13 @@ return [
     "address" => "101 Data St",
     "city" => "Chicago",
     "state" => "IL",
-    "zip-code" => "60616",
-    "contact-email" => "info@quantumcode.com",
-    "contact-phone" => "444-555-5555",
-    "company-name" => "Quantum Code",
-    "company-description" => "Quantum Code is a prominent data analytics company providing insightful data solutions and analytics for better decision-making.",
-    "company-logo" => "logos/logo-quantumcode.png",
-    "company-website" => "https://quantumcode.com"
+    "zip_code" => "60616",
+    "contact_email" => "info@quantumcode.com",
+    "contact_phone" => "444-555-5555",
+    "company_name" => "Quantum Code",
+    "company_description" => "Quantum Code is a prominent data analytics company providing insightful data solutions and analytics for better decision-making.",
+    "company_logo" => "logo/logo-quantumcode.png",
+    "company_website" => "https://quantumcode.com"
   ],
   [
     "title" => "Graphic Designer",
@@ -93,13 +93,13 @@ return [
     "address" => "234 Design Blvd",
     "city" => "Albany",
     "state" => "NY",
-    "zip-code" => "12203",
-    "contact-email" => "info@shield.com",
-    "contact-phone" => "499-321-9876",
-    "company-name" => "Shield",
-    "company-description" => "Shield is a leading design agency known for its innovative approach to graphic design and creative solutions.",
-    "company-logo" => "logos/logo-shield.png",
-    "company-website" => "https://shield.com"
+    "zip_code" => "12203",
+    "contact_email" => "info@shield.com",
+    "contact_phone" => "499-321-9876",
+    "company_name" => "Shield",
+    "company_description" => "Shield is a leading design agency known for its innovative approach to graphic design and creative solutions.",
+    "company_logo" => "logo/logo-shield.png",
+    "company_website" => "https://shield.com"
   ],
   [
     "title" => "Data Scientist",
@@ -113,13 +113,13 @@ return [
     "address" => "567 Data Drive",
     "city" => "Boston",
     "state" => "MA",
-    "zip-code" => "02108",
-    "contact-email" => "info@sparkle.com",
-    "contact-phone" => "684-789-1234",
-    "company-name" => "Sparkle",
-    "company-description" => "Sparkle is an innovative company specializing in data science and machine learning, committed to solving complex data problems.",
-    "company-logo" => "logos/logo-sparkle.png",
-    "company-website" => "https://sparkle.com"
+    "zip_code" => "02108",
+    "contact_email" => "info@sparkle.com",
+    "contact_phone" => "684-789-1234",
+    "company_name" => "Sparkle",
+    "company_description" => "Sparkle is an innovative company specializing in data science and machine learning, committed to solving complex data problems.",
+    "company_logo" => "logo/logo-sparkle.png",
+    "company_website" => "https://sparkle.com"
   ],
   [
     "title" => "UX Designer",
@@ -133,13 +133,13 @@ return [
     "address" => "890 UX Rd",
     "city" => "Seattle",
     "state" => "WA",
-    "zip-code" => "98101",
-    "contact-email" => "info@vencom.com",
-    "contact-phone" => "567-890-1234",
-    "company-name" => "Vencom",
-    "company-description" => "Vencom is a design-driven company focused on creating exceptional user experiences through innovative UX design.",
-    "company-logo" => "logos/logo-vencom.png",
-    "company-website" => "https://vencom.com"
+    "zip_code" => "98101",
+    "contact_email" => "info@vencom.com",
+    "contact_phone" => "567-890-1234",
+    "company_name" => "Vencom",
+    "company_description" => "Vencom is a design-driven company focused on creating exceptional user experiences through innovative UX design.",
+    "company_logo" => "logo/logo-vencom.png",
+    "company_website" => "https://vencom.com"
   ],
   [
     "title" => "Digital Media Specialist",
@@ -153,13 +153,13 @@ return [
     "address" => "101 Digital Way",
     "city" => "Austin",
     "state" => "TX",
-    "zip-code" => "73301",
-    "contact-email" => "info@digitalmedia.com",
-    "contact-phone" => "512-555-1234",
-    "company-name" => "Digital Media",
-    "company-description" => "Digital Media specializes in innovative online marketing strategies and digital content management.",
-    "company-logo" => "logos/logo-digital-media.png",
-    "company-website" => "https://digitalmedia.com"
+    "zip_code" => "73301",
+    "contact_email" => "info@digitalmedia.com",
+    "contact_phone" => "512-555-1234",
+    "company_name" => "Digital Media",
+    "company_description" => "Digital Media specializes in innovative online marketing strategies and digital content management.",
+    "company_logo" => "logo/logo-digital-media.png",
+    "company_website" => "https://digitalmedia.com"
   ],
   [
     "title" => "Product Manager",
@@ -173,13 +173,13 @@ return [
     "address" => "234 Innovation Ln",
     "city" => "New York",
     "state" => "NY",
-    "zip-code" => "10001",
-    "contact-email" => "info@pinkpig.com",
-    "contact-phone" => "212-555-6789",
-    "company-name" => "Pink Pig",
-    "company-description" => "Pink Pig is a technology company dedicated to creating innovative products and solutions that drive industry advancement.",
-    "company-logo" => "logos/logo-pink-pig.png",
-    "company-website" => "https://pinkpig.com"
+    "zip_code" => "10001",
+    "contact_email" => "info@pinkpig.com",
+    "contact_phone" => "212-555-6789",
+    "company_name" => "Pink Pig",
+    "company_description" => "Pink Pig is a technology company dedicated to creating innovative products and solutions that drive industry advancement.",
+    "company_logo" => "logo/logo-pink-pig.png",
+    "company_website" => "https://pinkpig.com"
   ],
   [
     "title" => "IT Support Specialist",
@@ -193,12 +193,12 @@ return [
     "address" => "567 Tech Blvd",
     "city" => "Dallas",
     "state" => "TX",
-    "zip-code" => "75201",
-    "contact-email" => "info@tecsolutions.com",
-    "contact-phone" => "214-555-9876",
-    "company-name" => "Tec Solutions",
-    "company-description" => "Tec Solutions provides comprehensive IT support and solutions, ensuring optimal performance of technology infrastructure.",
-    "company-logo" => "logos/logo-tec-solutions.png",
-    "company-website" => "https://tecsolutions.com"
+    "zip_code" => "75201",
+    "contact_email" => "info@tecsolutions.com",
+    "contact_phone" => "214-555-9876",
+    "company_name" => "Tec Solutions",
+    "company_description" => "Tec Solutions provides comprehensive IT support and solutions, ensuring optimal performance of technology infrastructure.",
+    "company_logo" => "logo/logo-tec-solutions.png",
+    "company_website" => "https://tecsolutions.com"
   ]
 ];

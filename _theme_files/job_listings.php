@@ -18,7 +18,7 @@ return [
     "contact_phone" => "348-334-3949",
     "company_name" => "Algorix",
     "company_description" => "Algorix is a leading tech firm specializing in innovative software solutions and cutting-edge technology.",
-    "company_logo" => "logos/logo-algorix.png",
+    "company_logo" => "logo/logo-algorix.png",
     "company_website" => "https://algorix.com"
   ],
   [
@@ -38,7 +38,7 @@ return [
     "contact_phone" => "454-344-3344",
     "company_name" => "Bitwave",
     "company_description" => "Bitwave is a dynamic marketing agency focused on delivering innovative marketing strategies and results-driven solutions.",
-    "company_logo" => "logos/logo-bitwave.png",
+    "company_logo" => "logo/logo-bitwave.png",
     "company_website" => "https://bitwave.com"
   ],
   [
@@ -58,7 +58,7 @@ return [
     "contact_phone" => "456-876-5432",
     "company_name" => "NextGen Solutions",
     "company_description" => "NextGen Solutions is a forward-thinking technology company dedicated to crafting exceptional web applications and solutions.",
-    "company_logo" => "logos/logo-nextgen.png",
+    "company_logo" => "logo/logo-nextgen.png",
     "company_website" => "https://nextgensolutions.com"
   ],
   [
@@ -78,7 +78,7 @@ return [
     "contact_phone" => "444-555-5555",
     "company_name" => "Quantum Code",
     "company_description" => "Quantum Code is a prominent data analytics company providing insightful data solutions and analytics for better decision-making.",
-    "company_logo" => "logos/logo-quantumcode.png",
+    "company_logo" => "logo/logo-quantumcode.png",
     "company_website" => "https://quantumcode.com"
   ],
   [
@@ -98,7 +98,7 @@ return [
     "contact_phone" => "499-321-9876",
     "company_name" => "Shield",
     "company_description" => "Shield is a leading design agency known for its innovative approach to graphic design and creative solutions.",
-    "company_logo" => "logos/logo-shield.png",
+    "company_logo" => "logo/logo-shield.png",
     "company_website" => "https://shield.com"
   ],
   [
@@ -118,7 +118,7 @@ return [
     "contact_phone" => "684-789-1234",
     "company_name" => "Sparkle",
     "company_description" => "Sparkle is an innovative company specializing in data science and machine learning, committed to solving complex data problems.",
-    "company_logo" => "logos/logo-sparkle.png",
+    "company_logo" => "logo/logo-sparkle.png",
     "company_website" => "https://sparkle.com"
   ],
   [
@@ -138,7 +138,7 @@ return [
     "contact_phone" => "567-890-1234",
     "company_name" => "Vencom",
     "company_description" => "Vencom is a design-driven company focused on creating exceptional user experiences through innovative UX design.",
-    "company_logo" => "logos/logo-vencom.png",
+    "company_logo" => "logo/logo-vencom.png",
     "company_website" => "https://vencom.com"
   ],
   [
@@ -158,7 +158,7 @@ return [
     "contact_phone" => "512-555-1234",
     "company_name" => "Digital Media",
     "company_description" => "Digital Media specializes in innovative online marketing strategies and digital content management.",
-    "company_logo" => "logos/logo-digital-media.png",
+    "company_logo" => "logo/logo-digital-media.png",
     "company_website" => "https://digitalmedia.com"
   ],
   [
@@ -178,7 +178,7 @@ return [
     "contact_phone" => "212-555-6789",
     "company_name" => "Pink Pig",
     "company_description" => "Pink Pig is a technology company dedicated to creating innovative products and solutions that drive industry advancement.",
-    "company_logo" => "logos/logo-pink-pig.png",
+    "company_logo" => "logo/logo-pink-pig.png",
     "company_website" => "https://pinkpig.com"
   ],
   [
@@ -198,7 +198,7 @@ return [
     "contact_phone" => "214-555-9876",
     "company_name" => "Tec Solutions",
     "company_description" => "Tec Solutions provides comprehensive IT support and solutions, ensuring optimal performance of technology infrastructure.",
-    "company_logo" => "logos/logo-tec-solutions.png",
+    "company_logo" => "logo/logo-tec-solutions.png",
     "company_website" => "https://tecsolutions.com"
   ]
 ];
