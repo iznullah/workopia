@@ -35,7 +35,7 @@ class ApplicantController extends Controller
         $applicant->user_id = auth()->id();
         $applicant->save();
 
-        Mail::to($job->user->email)->send(new JobApplied());
+       // Mail::to($job->user->email)->send(new JobApplied());
 
         return redirect()->back()->with('success', 'Your application has been submitted!');
     }
